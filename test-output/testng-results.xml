@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22165" started-at="2020-01-30T14:03:39Z" finished-at="2020-01-30T14:04:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22165" started-at="2020-01-30T14:03:39Z" finished-at="2020-01-30T14:04:01Z">
+      <class name="com.tours.test.TestHomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.tours.test.TestHomePage@11531931]" name="initialize" is-config="true" duration-ms="19615" started-at="2020-01-30T19:33:39Z" finished-at="2020-01-30T19:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePage()[pri:0, instance:com.tours.test.TestHomePage@11531931]" name="basePage" duration-ms="2520" started-at="2020-01-30T19:33:59Z" finished-at="2020-01-30T19:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePage -->
+        <test-method status="PASS" signature="wrapUp()[pri:0, instance:com.tours.test.TestHomePage@11531931]" name="wrapUp" is-config="true" duration-ms="7" started-at="2020-01-30T19:34:01Z" finished-at="2020-01-30T19:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.tours.test.TestHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
